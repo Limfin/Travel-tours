@@ -867,8 +867,8 @@ a:active {
 
 @media (max-width: 992px) {
   .app__info .ico.circle {
-    top: 100%;
-    left: 100%;
+    top: 90%;
+    left: 90%;
   }
 }
 
