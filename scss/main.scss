@@ -728,19 +728,19 @@ a:active {
 		cursor: pointer;
 		// .review__arrow_next
 		&_next {
-			background: url("/img/review/next.svg") center no-repeat;
+			background: url("../img/review/next.svg") center no-repeat;
 			&.swiper-button-disabled {
-				background: url("/img/review/prev.svg") center no-repeat;
+				background: url("../img/review/prev.svg") center no-repeat;
 				transform: rotate(180deg);
 			}
 		}
 		// .review__arrow_prev
 		&_prev {
-			background: url("/img/review/next.svg") center no-repeat;
+			background: url("../img/review/next.svg") center no-repeat;
 			transform: rotate(180deg);
 			margin-right: 22px;
 			&.swiper-button-disabled {
-				background: url("/img/review/prev.svg") center no-repeat;
+				background: url("../img/review/prev.svg") center no-repeat;
 				transform: none;
 			}
 		}

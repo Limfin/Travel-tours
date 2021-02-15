@@ -1064,24 +1064,24 @@ a:active {
 }
 
 .review__arrow_next {
-  background: url("/img/review/next.svg") center no-repeat;
+  background: url("../img/review/next.svg") center no-repeat;
 }
 
 .review__arrow_next.swiper-button-disabled {
-  background: url("/img/review/prev.svg") center no-repeat;
+  background: url("../img/review/prev.svg") center no-repeat;
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
 .review__arrow_prev {
-  background: url("/img/review/next.svg") center no-repeat;
+  background: url("../img/review/next.svg") center no-repeat;
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
   margin-right: 22px;
 }
 
 .review__arrow_prev.swiper-button-disabled {
-  background: url("/img/review/prev.svg") center no-repeat;
+  background: url("../img/review/prev.svg") center no-repeat;
   -webkit-transform: none;
           transform: none;
 }
